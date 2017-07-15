@@ -1,5 +1,5 @@
 # Short Lnk
 Meteor and React.
 
-##Authors
+## Authors
 Kevin Philippe
