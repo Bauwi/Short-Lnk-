@@ -64,7 +64,7 @@ export default class Signup extends Component {
           </form>
 
 
-          <Link to ="/">Already have an account?</Link>
+          <Link to ="/">Have an account?</Link>
         </div>
       </div>
     )
