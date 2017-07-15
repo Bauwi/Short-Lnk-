@@ -1,0 +1,26 @@
+.item {
+  background: $item-bg;
+  border: 1px solid $item-border;
+  margin-bottom: $space;
+  padding: $space;
+  transition: transform .5s;
+  &:hover {
+    transform: scale(1.05);
+  }
+}
+
+.item__header{
+  display: flex;
+  justify-content: space-between;
+}
+
+.item__message {
+  color: $item-text-color;
+}
+
+.item__status-message {
+  color: $item-text-color;
+  font-style: italic;
+  margin: 0;
+  text-align: center;
+}
